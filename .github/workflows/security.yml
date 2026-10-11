@@ -17,7 +17,7 @@ on:
 
 jobs:
   semgrep-php:
-    uses: PayPal-Braintree/security-workflows/.github/workflows/semgrep-php.yml@main
+    uses: x4v13r64/security-workflows/.github/workflows/semgrep-php.yml@main
 
   dependency-review:
-    uses: PayPal-Braintree/security-workflows/.github/workflows/dependency-review.yml@main
+    uses: x4v13r64/security-workflows/.github/workflows/dependency-review.yml@main
